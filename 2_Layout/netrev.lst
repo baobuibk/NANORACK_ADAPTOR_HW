@@ -1,0 +1,99 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : Adaptor_V100.brd                              )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Mon Oct 07 00:37:17 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:/0_Working/1_Hardware/42_Adaptor/1_Schematic'
+Design Directory:            'D:/0_Working/1_Hardware/42_Adaptor/2_Layout'
+Old design name:             'D:/0_Working/1_Hardware/42_Adaptor/2_Layout/Adaptor_V100.brd'
+New design name:             'D:/0_Working/1_Hardware/42_Adaptor/2_Layout/Adaptor_V100.brd'
+
+CmdLine: netrev -$ -i D:/0_Working/1_Hardware/42_Adaptor/1_Schematic -y 1 -h -q netrev_constraint_report.xml D:/0_Working/1_Hardware/42_Adaptor/2_Layout/#Taaaaby14552.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read D:/0_Working/1_Hardware/42_Adaptor/1_Schematic/pstchip.dat 
+   Finished reading D:/0_Working/1_Hardware/42_Adaptor/1_Schematic/pstchip.dat (00:00:00.02)
+Starting to read D:/0_Working/1_Hardware/42_Adaptor/1_Schematic/pstxprt.dat 
+   Finished reading D:/0_Working/1_Hardware/42_Adaptor/1_Schematic/pstxprt.dat (00:00:00.00)
+Starting to read D:/0_Working/1_Hardware/42_Adaptor/1_Schematic/pstxnet.dat 
+   Finished reading D:/0_Working/1_Hardware/42_Adaptor/1_Schematic/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+           E:/1_Working/2. Convectair_ver1.6.2/02_layout/symbol/ 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           D:/0_Working/1_Hardware/0_Lib/1_Footprint/ 
+           D:/0_Working/1_Hardware/0_Lib/5_Logo/ 
+           D:/0_Working/1_Hardware/0_Tonghop/1_BoardTN/27_XVL/1_EME_MC8/2_Layout/Symbols/ 
+           D:/0_Working/1_Hardware/13_BKRouter v2/2_Layout/Symbols/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           D:/0_Working/1_Hardware/0_Lib/1_Footprint/ 
+           D:/0_Working/1_Hardware/0_Tonghop/1_BoardTN/27_XVL/1_EME_MC8/2_Layout/Symbols/ 
+           D:/0_Working/1_Hardware/13_BKRouter v2/2_Layout/Symbols/ 
+           D:/0_Working/1_Hardware/13_BKRouter v2/2_Layout/Symbols/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 7 0:37:17 2024
+   DESIGN NAME : 'ADAPTOR'
+   PACKAGING ON Feb 18 2019 18:33:40
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:46
+elapsed time  0:00:02
+

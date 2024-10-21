@@ -1,0 +1,7 @@
+\t (00:00:00) padstack_editor 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Oct 11 09:52:03 2024
+\t (00:00:00)         Host=LAPTOP-F1OJ0CCU User=ACER Pid=12820 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession ACER -file C:/Users/ACER/AppData/Local/Temp/#Taaaafp01396.tmp -pname DRILL1P2_CIR1P8-1 -data C:/Users/ACER/AppData/Local/Temp/#Taaaafr01396.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\t (00:00:03)     Journal end - Fri Oct 11 09:52:06 2024

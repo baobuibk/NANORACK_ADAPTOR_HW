@@ -1,0 +1,497 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : Adaptor_V100.brd                              )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Mon Oct 07 00:42:59 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+ WARNING: Generating english output data from a metric database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(11.9668 24.1300) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(17.8452 23.2950) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(40.3071 73.0952) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00906                                  DARK 
+  CIRCLE     0.01002                                  DARK 
+  CIRCLE     0.01063                                  DARK 
+  CIRCLE     0.01181                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.01969                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02677                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.06693                                  DARK 
+  CIRCLE     0.07874                                  DARK 
+  CIRCLE     0.20870                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.09449      90.000 NO     DARK 
+  RECTANGLE  0.01378     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.04331       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.10630       0.000 NO     DARK 
+  RECTANGLE  0.08460     x 0.06680       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.07400      90.000 NO     DARK 
+
+     ADAPTOR_ver1.0.0_TOP.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01181                                  DARK 
+  CIRCLE     0.01709                                  DARK 
+  CIRCLE     0.01969                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02677                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.06693                                  DARK 
+  CIRCLE     0.07874                                  DARK 
+  CIRCLE     0.20870                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+
+     ADAPTOR_ver1.0.0_BOTTOM.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00984                                  DARK 
+  CIRCLE     0.00984                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+
+     ADAPTOR_ver1.0.0_SILK_TOP.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK_BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_SILK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+
+     ADAPTOR_ver1.0.0_SILK_BOTTOM.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMASK_TOP >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_SMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01002                                  DARK 
+  CIRCLE     0.01063                                  DARK 
+  CIRCLE     0.02369                                  DARK 
+  CIRCLE     0.04530                                  DARK 
+  CIRCLE     0.06693                                  DARK 
+  CIRCLE     0.09449                                  DARK 
+  CIRCLE     0.21654                                  DARK 
+  CIRCLE     0.25787                                  DARK 
+  SQUARE     0.09449                     0.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.09449      90.000 NO     DARK 
+  RECTANGLE  0.01581     x 0.02172      90.000 NO     DARK 
+  RECTANGLE  0.01772     x 0.02756       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.05118       0.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.03800       0.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.03800      90.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.11417       0.000 NO     DARK 
+  RECTANGLE  0.08860     x 0.07070       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.07400      90.000 NO     DARK 
+
+     ADAPTOR_ver1.0.0_SMASK_TOP.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMASK_BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_SMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.02369                                  DARK 
+  CIRCLE     0.04530                                  DARK 
+  CIRCLE     0.06693                                  DARK 
+  CIRCLE     0.09449                                  DARK 
+  CIRCLE     0.21654                                  DARK 
+  CIRCLE     0.25787                                  DARK 
+  SQUARE     0.09449                     0.000 NO     DARK 
+
+     ADAPTOR_ver1.0.0_SMASK_BOTTOM.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTE_TOP >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_PASTE_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  SQUARE     0.00100                     0.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.01772     x 0.02756       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.04331       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.10630       0.000 NO     DARK 
+  RECTANGLE  0.08460     x 0.06680       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.07400      90.000 NO     DARK 
+
+     ADAPTOR_ver1.0.0_PASTE_TOP.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTE_BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_PASTE_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     ADAPTOR_ver1.0.0_PASTE_BOTTOM.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSY_TOP >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_ASSY_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1016 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (6.0000 78.0000) in MM
+           ... using undefined line width of 0.1016 MM
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1016 MM
+
+    WARNING: 0 width line found at (22.0935 21.2429) in MM
+           ... using undefined line width of 0.1016 MM
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1016 MM
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00984                                  DARK 
+
+     ADAPTOR_ver1.0.0_ASSY_TOP.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSY_BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_ASSY_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1016 MM
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     ADAPTOR_ver1.0.0_ASSY_BOTTOM.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < FAB >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_FAB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     ADAPTOR_ver1.0.0_FAB.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < PANEL >
+     TO FILE < D:/0_Working/1_Hardware/42_Adaptor/2_Layout/ADAPTOR_ver1.0.0_PANEL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     ADAPTOR_ver1.0.0_PANEL.art created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        ADAPTOR_ver1.0.0_TOP.art created with warnings
+        ADAPTOR_ver1.0.0_BOTTOM.art created with warnings
+        ADAPTOR_ver1.0.0_SILK_TOP.art created with warnings
+        ADAPTOR_ver1.0.0_SILK_BOTTOM.art created with warnings
+        ADAPTOR_ver1.0.0_SMASK_TOP.art created with warnings
+        ADAPTOR_ver1.0.0_SMASK_BOTTOM.art created with warnings
+        ADAPTOR_ver1.0.0_PASTE_TOP.art created with warnings
+        ADAPTOR_ver1.0.0_PASTE_BOTTOM.art created with warnings
+        ADAPTOR_ver1.0.0_ASSY_TOP.art created with warnings
+        ADAPTOR_ver1.0.0_ASSY_BOTTOM.art created with warnings
+        ADAPTOR_ver1.0.0_FAB.art created with warnings
+        ADAPTOR_ver1.0.0_PANEL.art created with warnings
+
+ ARTWORK had warnings

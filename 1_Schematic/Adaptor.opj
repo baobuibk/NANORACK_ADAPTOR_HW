@@ -148,25 +148,20 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\0_working\1_hardware\42_adaptor\1_schematic\adaptor.dsn")
-      (Path "Design Resources"
-         "d:\0_working\1_hardware\42_adaptor\1_schematic\adaptor.dsn"
-         "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 734"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 734"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1608 52 825")
-        (Scroll "-10 0")
-        (Zoom "90")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1608 52 825")
+        (Scroll "594 0")
+        (Zoom "186")
         (Occurrence "/"))
       (Path "D:\0_WORKING\1_HARDWARE\42_ADAPTOR\1_SCHEMATIC\ADAPTOR.DSN")
       (Schematic "SCHEMATIC1")
@@ -185,7 +180,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 234 1790 234 1007")
-        (Scroll "4435 3499")
+        (Scroll "3462 3096")
         (Zoom "360")
         (Occurrence "/"))
       (Path "D:\0_WORKING\1_HARDWARE\42_ADAPTOR\1_SCHEMATIC\ADAPTOR.DSN")

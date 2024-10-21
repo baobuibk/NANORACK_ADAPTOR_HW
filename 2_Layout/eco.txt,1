@@ -1,0 +1,70 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/0_Working/1_Hardware/42_Adaptor/2_Layout/Adaptor_V100.brd                |
+|                                                    Sun Oct 06 23:50:11 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ FIDU_0_FID_1MM_FIDU
+ VIA_CIRCLLE_MH_3MM_1_MH
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/0_Working/1_Hardware/42_Adaptor/2_Layout/Adaptor_V100.brd                |
+|                                                    Sun Oct 06 23:50:11 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ FID1                FIDU_0_FID_1MM_FIDU   
+ FID2                FIDU_0_FID_1MM_FIDU   
+ FID3                FIDU_0_FID_1MM_FIDU   
+ FID4                FIDU_0_FID_1MM_FIDU   
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/0_Working/1_Hardware/42_Adaptor/2_Layout/Adaptor_V100.brd                |
+|                                                    Sun Oct 06 23:50:11 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ MH1                 VIA_CIRCLLE_MH_3MM_1_MH  5.0800  5.0800 VIA_CIRCLLE_MH_3MM_1_100NF
+ MH2                 VIA_CIRCLLE_MH_3MM_1_MH 85.0900  5.0800 VIA_CIRCLLE_MH_3MM_1_100NF
+ MH3                 VIA_CIRCLLE_MH_3MM_1_MH 82.3800 84.9200 VIA_CIRCLLE_MH_3MM_1_100NF
+ MH4                 VIA_CIRCLLE_MH_3MM_1_MH  8.9800 84.9200 VIA_CIRCLLE_MH_3MM_1_100NF
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/0_Working/1_Hardware/42_Adaptor/2_Layout/Adaptor_V100.brd                |
+|                                                    Sun Oct 06 23:50:11 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ FID1.1                         PRIM_FILE      .\pstchip.dat
+ FID2.1                         PRIM_FILE      .\pstchip.dat
+ FID3.1                         PRIM_FILE      .\pstchip.dat
+ FID4.1                         PRIM_FILE      .\pstchip.dat
+ MH1.1           5.0800  5.0800 PRIM_FILE      .\pstchip.dat
+ MH2.1          85.0900  5.0800 PRIM_FILE      .\pstchip.dat
+ MH3.1          82.3800 84.9200 PRIM_FILE      .\pstchip.dat
+ MH4.1           8.9800 84.9200 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       2                                        |
+|       Components added      :       4                                        |
+|       Components changed    :       4                                        |
+|       Slot property added   :       8                                        |
+|                                                                              |
+|   Total ECO changes reported:      18                                        |
+|------------------------------------------------------------------------------|

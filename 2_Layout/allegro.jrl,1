@@ -1,0 +1,443 @@
+\t (00:00:01) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Oct 18 14:32:44 2024
+\t (00:00:01)         Host=LAPTOP-F1OJ0CCU User=ACER Pid=21996 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\0_Working\1_Hardware\42_Adaptor\2_Layout\Adaptor_V100.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+   (00:00:02) Searching for nsWare programs v2.78
+   (00:00:02) 	NsWare directory found: D:/0_Working/1_Hardware/01_working_allegro/pcbenv/nsWare/
+   (00:00:02) 	NsWare programs must reside in this directory!
+   (00:00:02) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:02) function Find_Point_On_Line_From_Distant redefined
+   (00:00:02) function Find_Point_Quadrature_Line redefined
+   (00:00:02) function Line_Line_Intersect redefined
+   (00:00:02) function _getPinsNet redefined
+   (00:00:02) function _getBranchs redefined
+   (00:00:02) function _getPaths redefined
+   (00:00:02) function _get2PointsPath redefined
+   (00:00:02) function _checkElementList redefined
+   (00:00:02) function _getSurroundPoints redefined
+   (00:00:02) function _getListPointsLPaths redefined
+   (00:00:02) function _checkPathPoint redefined
+   (00:00:02) function _deleteElementList redefined
+   (00:00:02) function _checkElementList redefined
+   (00:00:02) function _deleteElementList redefined
+   (00:00:02) function Find_Point_On_Line_From_Distant redefined
+   (00:00:02) function Find_Point_Quadrature_Line redefined
+   (00:00:02) function Is_Point_On_List redefined
+   (00:00:02) function Line_Line_Intersect redefined
+   (00:00:02) function Line_Line_Distant redefined
+   (00:00:02) *Error* load: can't access file - "ansys.ilinit"
+   (00:00:02) ANSYS integration requires that the following environment variable be set:
+   (00:00:02)   SI_INTEGRATE4_DIR
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Adaptor_V100
+\d (00:00:02) Design opened: D:/0_Working/1_Hardware/42_Adaptor/2_Layout/Adaptor_V100.brd
+\i (00:00:02) trapsize 2237
+\i (00:00:02) trapsize 2278
+\i (00:00:03) trapsize 2055
+\i (00:00:03) trapsize 2055
+\i (00:00:03) generaledit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 65.3040 60.2516
+\i (00:00:04) trapsize 4110
+\i (00:00:05) pick grid 112.5722 53.5929
+\t (00:00:05) last pick:  112.6000 53.6000
+\i (00:00:05) roam y 96 
+\i (00:00:05) roam y 96
+\i (00:00:05) roam y 96 
+\i (00:00:05) roam y 96
+\i (00:00:05) roam y 96 
+\i (00:00:05) roam y 96
+\i (00:00:05) roam y 96 
+\i (00:00:05) roam y 96
+\i (00:00:06) roam y 96 
+\i (00:00:06) roam y 96
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 52.1511 1.7280
+\i (00:00:06) trapsize 2055
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 52.1511 1.7281
+\i (00:00:06) trapsize 1028
+\i (00:00:06) roam y 96 
+\i (00:00:06) roam y 96
+\i (00:00:07) roam x -96 
+\i (00:00:07) roam x -96
+\i (00:00:07) roam x -96 
+\i (00:00:07) roam x -96
+\i (00:00:07) roam y -96 
+\i (00:00:07) roam y -96
+\i (00:00:07) roam y -96 
+\i (00:00:07) roam y -96
+\i (00:00:08) roam x -96 
+\i (00:00:08) roam x -96
+\i (00:00:10) vis 
+\i (00:00:11) generaledit 
+\i (00:00:12) setwindow form.working_visible_form
+\i (00:00:12) FORM working_visible_form place_top YES 
+\i (00:00:15) FORM working_visible_form silk_top YES 
+\i (00:00:16) FORM working_visible_form silk_top NO 
+\i (00:00:16) FORM working_visible_form place_top NO 
+\i (00:00:17) FORM working_visible_form silk_top YES 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) pick grid 50.1266 18.2308
+\t (00:00:18) last pick:  50.1000 18.2000
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 49.5922 17.6965
+\i (00:00:18) trapsize 2055
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 49.5923 17.6142
+\i (00:00:18) trapsize 4110
+\i (00:00:19) prepopup 49.3457 27.1501
+\i (00:00:20) pick grid 44.9066 26.9035
+\t (00:00:20) last pick:  44.9000 26.9000
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:21) roam y -96 
+\i (00:00:21) roam y -96
+\i (00:00:21) roam y -96 
+\i (00:00:21) roam y -96
+\i (00:00:21) roam y -96 
+\i (00:00:21) roam y -96
+\i (00:00:23) roam x 96 
+\i (00:00:23) roam x 96
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 38.6383 12.2504
+\i (00:00:30) trapsize 2055
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 38.6384 12.2504
+\i (00:00:30) trapsize 1028
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 38.6384 12.2505
+\i (00:00:31) trapsize 514
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 38.6384 12.2505
+\i (00:00:31) trapsize 1028
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 46.6536 15.9292
+\i (00:02:34) trapsize 2055
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 46.6536 15.9292
+\i (00:02:34) trapsize 4110
+\i (00:02:34) pick grid 14.1001 -7.0885
+\t (00:02:34) last pick:  14.1000 -7.1000
+\i (00:02:35) zoom in 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom in -3.9030 4.0093
+\i (00:02:35) trapsize 2055
+\i (00:02:35) zoom in 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom in -3.9030 4.0093
+\i (00:02:35) trapsize 1028
+\i (00:02:35) zoom in 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom in -3.9030 4.0093
+\i (00:02:35) trapsize 514
+\i (00:02:35) roam x 96 
+\i (00:02:35) roam x 96
+\i (00:02:36) roam y 96 
+\i (00:02:36) roam y 96
+\i (00:02:36) roam x 96 
+\i (00:02:36) roam x 96
+\i (00:02:36) roam y 96 
+\i (00:02:36) roam y 96
+\i (00:02:36) roam x 96 
+\i (00:02:36) roam x 96
+\i (00:04:02) zoom out 1 
+\i (00:04:02) setwindow pcb
+\i (00:04:02) zoom out 8.4894 2.7042
+\i (00:04:02) trapsize 1028
+\i (00:04:02) zoom out 1 
+\i (00:04:02) setwindow pcb
+\i (00:04:02) zoom out 8.4895 2.9097
+\i (00:04:02) trapsize 2055
+\i (00:04:03) zoom out 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom out 8.4894 2.9097
+\i (00:04:03) trapsize 4110
+\i (00:04:03) pick grid 34.0555 20.9127
+\t (00:04:03) last pick:  34.1000 20.9000
+\i (00:04:03) roam x 96 
+\i (00:04:03) roam x 96
+\i (00:04:04) roam x 96 
+\i (00:04:04) roam x 96
+\i (00:04:04) roam x 96 
+\i (00:04:04) roam x 96
+\i (00:04:04) roam x 96 
+\i (00:04:04) roam x 96
+\i (00:04:04) roam x 96 
+\i (00:04:04) roam x 96
+\i (00:04:04) roam x 96 
+\i (00:04:04) roam x 96
+\i (00:04:06) setwindow form.working_visible_form
+\i (00:04:06) FORM working_visible_form silk_bot YES 
+\i (00:04:06) FORM working_visible_form silk_top NO 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) pick grid 24.1708 25.6806
+\t (00:04:07) last pick:  24.2000 25.7000
+\i (00:04:08) setwindow form.working_visible_form
+\i (00:04:08) FORM working_visible_form silk_bot NO 
+\i (00:04:10) FORM working_visible_form ass_bot YES 
+\i (00:04:12) FORM working_visible_form ass_bot NO 
+\i (00:04:12) FORM working_visible_form solder_bot YES 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) pick grid 39.9543 24.5297
+\t (00:04:13) last pick:  40.0000 24.5000
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 12.9908 21.5703
+\i (00:04:14) trapsize 2055
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 12.9908 21.5703
+\i (00:04:14) trapsize 1028
+\i (00:04:15) zoom in 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom in 12.9909 21.5704
+\i (00:04:15) trapsize 514
+\i (00:04:15) zoom in 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom in 11.0076 23.3584
+\i (00:04:15) trapsize 257
+\i (00:04:15) zoom in 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom in 11.0128 23.4766
+\i (00:04:15) trapsize 128
+\i (00:04:16) roam y -96 
+\i (00:04:16) roam y -96
+\i (00:04:16) roam y -96 
+\i (00:04:16) roam y -96
+\i (00:04:16) roam y -96 
+\i (00:04:16) roam y -96
+\i (00:04:16) roam y -96 
+\i (00:04:16) roam y -96
+\i (00:04:16) roam y -96 
+\i (00:04:16) roam y -96
+\i (00:04:17) roam y -96 
+\i (00:04:17) roam y -96
+\i (00:04:17) roam y -96 
+\i (00:04:17) roam y -96
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 10.9588 24.7186
+\i (00:04:17) trapsize 257
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 10.9589 24.7134
+\i (00:04:17) trapsize 514
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 10.9692 24.7135
+\i (00:04:17) trapsize 1028
+\i (00:04:17) roam x 96 
+\i (00:04:17) roam x 96
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 17.0787 24.6518
+\i (00:04:17) trapsize 2055
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 17.0787 24.6519
+\i (00:04:17) trapsize 4110
+\i (00:04:17) roam y -96 
+\i (00:04:17) roam y -96
+\i (00:04:18) zoom out 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom out 23.5730 32.5540
+\i (00:04:18) trapsize 8221
+\i (00:04:18) roam x 96 
+\i (00:04:18) roam x 96
+\i (00:04:18) roam y -96 
+\i (00:04:18) roam y -96
+\i (00:04:18) zoom in 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom in 51.9544 67.2445
+\i (00:04:18) trapsize 4110
+\i (00:04:18) zoom in 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom in 51.9545 67.3268
+\i (00:04:18) trapsize 2055
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in 37.0343 70.6150
+\i (00:04:20) trapsize 1028
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in 37.0137 70.6355
+\i (00:04:20) trapsize 514
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in 37.0137 70.6355
+\i (00:04:20) trapsize 257
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in 37.0137 70.6356
+\i (00:04:20) trapsize 128
+\i (00:04:20) roam y -96 
+\i (00:04:20) roam y -96
+\i (00:04:21) roam y -96 
+\i (00:04:21) roam y -96
+\i (00:04:21) roam y -96 
+\i (00:04:21) roam y -96
+\i (00:04:21) zoom out 1 
+\i (00:04:21) setwindow pcb
+\i (00:04:21) zoom out 37.0830 71.3491
+\i (00:04:21) trapsize 257
+\i (00:04:21) roam y -96 
+\i (00:04:21) roam y -96
+\i (00:04:21) zoom in 1 
+\i (00:04:21) setwindow pcb
+\i (00:04:21) zoom in 35.1719 72.1047
+\i (00:04:21) trapsize 128
+\i (00:04:21) roam y -96 
+\i (00:04:21) roam y -96
+\i (00:04:22) zoom in 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom in 35.6754 72.0581
+\i (00:04:22) trapsize 64
+\i (00:04:22) zoom in 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom in 35.6754 72.0581
+\i (00:04:22) trapsize 32
+\i (00:04:22) zoom out 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom out 35.8173 72.0318
+\i (00:04:22) trapsize 64
+\i (00:04:22) roam y 96 
+\i (00:04:22) roam y 96
+\i (00:04:22) roam y 96 
+\i (00:04:22) roam y 96
+\i (00:04:23) zoom out 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom out 36.0100 71.7550
+\i (00:04:23) trapsize 128
+\i (00:04:23) roam y 96 
+\i (00:04:23) roam y 96
+\i (00:04:23) zoom in 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom in 36.4699 71.5751
+\i (00:04:23) trapsize 64
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) zoom in 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom in 36.5420 71.5970
+\i (00:04:23) trapsize 32
+\i (00:04:24) roam y -96 
+\i (00:04:24) roam y -96
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out 36.5214 71.6599
+\i (00:04:24) trapsize 64
+\i (00:04:25) zoom out 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom out 36.5215 71.6599
+\i (00:04:25) trapsize 128
+\i (00:04:31) setwindow form.working_visible_form
+\i (00:04:31) FORM working_visible_form place_top YES 
+\i (00:04:31) FORM working_visible_form place_top NO 
+\i (00:04:32) FORM working_visible_form place_top YES 
+\i (00:04:33) FORM working_visible_form place_top NO 
+\i (00:04:34) FORM working_visible_form solder_top YES 
+\i (00:04:35) FORM working_visible_form solder_bot NO 
+\i (00:04:37) FORM working_visible_form solder_bot YES 
+\i (00:04:37) FORM working_visible_form solder_top NO 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom out 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom out 37.0532 71.8114
+\i (00:04:37) trapsize 257
+\i (00:04:37) zoom out 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom out 36.9659 71.7292
+\i (00:04:37) trapsize 514
+\i (00:04:37) zoom out 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom out 36.8425 71.6059
+\i (00:04:37) trapsize 1028
+\i (00:04:38) pick grid 38.3223 69.0780
+\t (00:04:38) last pick:  38.3000 69.1000
+\i (00:04:38) roam x 96 
+\i (00:04:38) roam x 96
+\i (00:04:38) zoom out 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom out 40.3427 68.7903
+\i (00:04:38) trapsize 2055
+\i (00:04:38) zoom out 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom out 40.3428 68.6259
+\i (00:04:38) trapsize 4110
+\i (00:04:38) zoom out 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom out 40.3428 68.6258
+\i (00:04:38) trapsize 8221
+\i (00:04:38) roam y 96 
+\i (00:04:38) roam y 96
+\i (00:04:38) roam x 96 
+\i (00:04:38) roam x 96
+\i (00:04:38) roam y 96 
+\i (00:04:38) roam y 96
+\i (00:04:39) roam x 96 
+\i (00:04:39) roam x 96
+\i (00:04:39) zoom in 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom in 53.9273 35.8421
+\i (00:04:39) trapsize 4110
+\i (00:04:39) zoom in 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom in 53.8451 35.8421
+\i (00:04:39) trapsize 2055
+\i (00:04:39) roam x 96 
+\i (00:04:39) roam x 96
+\i (00:05:00) setwindow form.working_visible_form
+\i (00:05:00) FORM working_visible_form place_top YES 
+\i (00:05:03) FORM working_visible_form place_top NO 
+\i (00:05:05) FORM working_visible_form place_top YES 
+\i (00:05:05) FORM working_visible_form place_top NO 
+\i (00:05:06) FORM working_visible_form solder_top YES 
+\i (00:05:06) FORM working_visible_form solder_bot NO 
+\i (00:05:12) FORM working_visible_form solder_bot YES 
+\i (00:05:13) FORM working_visible_form solder_top NO 
+\i (00:05:15) FORM working_visible_form solder_top YES 
+\i (00:05:16) FORM working_visible_form solder_top NO 
+\i (00:05:17) FORM working_visible_form solder_top YES 
+\i (00:05:17) FORM working_visible_form solder_top NO 
+\i (00:05:18) FORM working_visible_form solder_top YES 
+\i (00:05:18) FORM working_visible_form solder_top NO 
+\i (00:05:19) FORM working_visible_form solder_top YES 
+\i (00:05:20) FORM working_visible_form solder_top NO 
+\i (00:05:21) FORM working_visible_form solder_bot NO 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) pick grid 66.4223 32.3073
+\t (00:05:22) last pick:  66.4000 32.3000
+\i (00:05:23) setwindow form.working_visible_form
+\i (00:05:23) FORM working_visible_form ass_top YES 
+\i (00:05:23) FORM working_visible_form ass_bot YES 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 62.7231 42.6241
+\i (00:05:24) trapsize 4110
+\i (00:05:24) zoom out 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 62.7232 42.5419
+\i (00:05:24) trapsize 8221
+\i (00:05:24) zoom out 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 62.7231 42.3774
+\i (00:05:24) trapsize 16441
+\i (00:05:43) exit 
+\t (00:05:44)     Journal end - Fri Oct 18 14:38:27 2024

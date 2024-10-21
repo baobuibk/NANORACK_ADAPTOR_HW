@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : Adaptor_V100.brd                              )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Fri Oct 11 14:19:13 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+Drill files being output to directory 'D:/0_Working/1_Hardware/42_Adaptor/3_Gerber' ...
+
+
+
+     'Adaptor_V100_d-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.2032    0.0000/  0.0000      PLATED        974
+            2.   1.2000    0.0000/  0.0000      PLATED         15
+            3.   2.9997    0.0000/  0.0000      PLATED          6
+            4.   3.1800    0.0000/  0.0000      PLATED          5
+            5.   1.7000    0.0000/  0.0000  NON_PLATED          2
+
+     ---- Total holes:                                       1002
+
+     ---- Total head travel:              10.25 feet (3.12 meters)
+

@@ -1,0 +1,15 @@
+{ Using PSTWRITER 17.2.0 d001Oct-07-2024 at 00:37:05 }
+
+#1 WARNING(ORCAP-36006): Part Name "HEADER 5_0_858-22-00_858-22-005-10-011101" is renamed to "HEADER 5_0_858-22-00_858-22-005".
+#2 WARNING(ORCAP-36006): Part Name "HEADER 13X2_1_HARWIN_M55-7002642R_M55-7002642R" is renamed to "HEADER 13X2_1_HARWIN_M55-700264".
+#3 WARNING(ORCAP-36006): Part Name "TPS259470ARPWR_0_RPW0010A-MFG_TPS259470ARPWR" is renamed to "TPS259470ARPWR_0_RPW0010A-MFG_T".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\0_Working\1_Hardware\42_Adaptor\1_Schematic/pstchip.dat
+
+Loading... D:\0_Working\1_Hardware\42_Adaptor\1_Schematic/pstchip.dat
+
+Loading... D:\0_Working\1_Hardware\42_Adaptor\1_Schematic/pstchip.dat
+
+Loading... D:\0_Working\1_Hardware\42_Adaptor\1_Schematic/pstxnet.dat
+packaging the design view...
